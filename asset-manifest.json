@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/fetch-data/static/css/main.5f361e03.chunk.css",
+    "main.js": "/fetch-data/static/js/main.24e18a7c.chunk.js",
+    "main.js.map": "/fetch-data/static/js/main.24e18a7c.chunk.js.map",
+    "runtime-main.js": "/fetch-data/static/js/runtime-main.d4c5d310.js",
+    "runtime-main.js.map": "/fetch-data/static/js/runtime-main.d4c5d310.js.map",
+    "static/css/2.98f886d0.chunk.css": "/fetch-data/static/css/2.98f886d0.chunk.css",
+    "static/js/2.3f8ed4de.chunk.js": "/fetch-data/static/js/2.3f8ed4de.chunk.js",
+    "static/js/2.3f8ed4de.chunk.js.map": "/fetch-data/static/js/2.3f8ed4de.chunk.js.map",
+    "index.html": "/fetch-data/index.html",
+    "precache-manifest.ed28298c9b427e5fb4f6ffeb2598bb70.js": "/fetch-data/precache-manifest.ed28298c9b427e5fb4f6ffeb2598bb70.js",
+    "service-worker.js": "/fetch-data/service-worker.js",
+    "static/css/2.98f886d0.chunk.css.map": "/fetch-data/static/css/2.98f886d0.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/fetch-data/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.3f8ed4de.chunk.js.LICENSE.txt": "/fetch-data/static/js/2.3f8ed4de.chunk.js.LICENSE.txt",
+    "static/media/india.jpg": "/fetch-data/static/media/india.ec80c6a3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4c5d310.js",
+    "static/css/2.98f886d0.chunk.css",
+    "static/js/2.3f8ed4de.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.24e18a7c.chunk.js"
+  ]
+}
